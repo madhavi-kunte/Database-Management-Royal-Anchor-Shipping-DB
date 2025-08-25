@@ -49,9 +49,9 @@ royal-anchor-shipping-db/
 
 ## 🗺️ ERD
 See: `docs/ERD_Royal_Anchor_Shipping.png`  
-*(Export your ERD tool image here. Example tools: dbdiagram.io, draw.io, Vertabelo, Lucidchart.)*
 
----
+---<img width="940" height="945" alt="image" src="https://github.com/user-attachments/assets/4b24c913-fb19-48c5-b7ac-3e8865427aca" />
+
 
 ## 🧩 DDL (Schema Excerpt)
 
